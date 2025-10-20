@@ -1,0 +1,14 @@
+# robots.txt for Apex Real Estate Agency
+# This file tells search engines which pages to crawl
+
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+
+# Sitemap location
+Sitemap: https://theequacare.github.io/apex-real-estate/sitemap.xml
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
+
